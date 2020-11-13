@@ -1,6 +1,6 @@
 ### Hi there, I am Troy! 👋
 
-I am a Web Developer with extensive experience in the product development lifecycle working in Medical & Telecom domain projects. I am interested in UI, UX, Web Performance, JavaScript, and all things related to Web.
+I am a Web Developer with extensive experience in the product development lifecycle. I am interested in UI, UX, Web Performance, JavaScript, and all things related to Web.
 
 - 🔭 I’m currently working on React and Java
 - 👯 Would love to collaborate on anything related to Web
